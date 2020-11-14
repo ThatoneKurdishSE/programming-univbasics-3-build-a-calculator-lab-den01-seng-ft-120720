@@ -2,7 +2,6 @@ def addition(num1="2", num2="4")
   sum= 2+4
 return sum
 end
-
 def subtraction(num1="4",num2="2")
   subtraction=4-2
  return subtraction
